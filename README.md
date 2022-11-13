@@ -1,2 +1,2 @@
 # human-motion-tracking-system
-Human Motion Tracking Mecanumbot With Using Kinect
+Mecanum Wheeled Mobile Human Motion Tracking System With Using Kinect
